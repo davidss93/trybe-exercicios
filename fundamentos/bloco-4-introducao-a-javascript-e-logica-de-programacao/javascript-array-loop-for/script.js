@@ -1,7 +1,14 @@
-let menu = ['Home', 'Serviços', 'Portfólio', 'Links'];
-let menuServices = menu[0];
+// var numero = 7;
+// for(var contador = 1; contador <= 9;  contador++) {
+//     console.log(numero * contador);
+// }
 
-menu.push('Contato');
+// let cars = ['Saab', 'Volvo', 'BMW'];
+// for(let index = 0; index < cars.length; index += 1) {
+//     console.log(cars[index]);
+// }
 
-console.log(menu);
-
+let groceryList = ['Arroz', 'Feijão', 'Alface', 'melancia'];
+for(let index = 0; index < groceryList.length; index += 1) {
+    console.log(groceryList[index]);
+}
