@@ -1,9 +1,3 @@
-let userName = 'David Santos';
-let userPassword = 1234;
-let access = true;
-
-if (userName === 'David Santos');
-
 
 let quantidade = 1;
 let bag = 0;
